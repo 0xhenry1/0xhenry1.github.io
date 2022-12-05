@@ -1,0 +1,22 @@
+测试环境  Nginx + MySQL 5.6 + PHP-7.2
+
+请按照以下方法安装程序
+
+1、上传解压
+
+2、设置网站运行目录为 public 目录
+
+3、配置tp伪静态规则
+
+4、配置数据库文件/application/database.php
+
+5、导入数据文件 数据库.sql
+
+6、邮箱配置在后台系统设置里面的邮件配置里面配置
+
+7、短信配置调用的短信宝的，配置短信的文件在/addons/smsbao/config.php
+
+8、后台：你的域名/ymkuzhan.php     默认账号：admin     默认密码：123456
+
+9、手机端前台：/public/assets/addons/csmmeet/mo 电脑端前台：/index/csmmeet.frame1/index.html
+
